@@ -1,0 +1,5 @@
+﻿Línea 1: Hola, este es un archivo de ejemplo.
+Línea 2: El propósito de este archivo es contar las líneas con tuberías.
+Línea 3: Cada línea contiene texto que se mostrará al ejecutar el comando.
+Línea 4: Este es un ejemplo sencillo para ilustrar cómo usar tuberías.
+Línea 5: Las líneas se contarán y se mostrarán al ejecutar el comando en la terminal.
